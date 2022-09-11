@@ -1,21 +1,22 @@
 # Program make a simple calculator that can add, subtract, multiply and divide using functions
 
 # define functions
+# this is for adition
 def add(x, y):
    """This function adds two numbers"""
 
    return x + y
-
+# this is for subtract
 def subtract(x, y):
    """This function subtracts two numbers"""
 
    return x - y
-
+# this is for multiply
 def multiply(x, y):
    """This function multiplies two numbers"""
 
    return x * y
-
+# this is for Divide
 def divide(x, y):
    """This function divides two numbers"""
 
